@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local DB files
+*.db
+
+# Build / compile folders
+build/
+dist/
+*.spec
+
+# OS junk
+Thumbs.db
+desktop.ini
